@@ -1,11 +1,8 @@
-# Md Zubayer Hossain Patowari | AI Engineer & Full-Stack Developer
+# Md Zunayed Hossain Patowari | AI Engineer & Full-Stack Developer
 
 
 > **"Transforming lines of code into bridges of innovation"**  
 > **"Architecting intelligent systems that transform data into meaningful insights"**
-
-![Profile Banner](https://github.com/user-attachments/assets/3f35592c-2692-4582-b440-732b46be6fc2)
-
 ---
 
 ## 👨‍💻 About Me
@@ -51,7 +48,6 @@ I'm a passionate AI Engineer with a track record of developing innovative AI sol
 ## 📫 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdzubayerpatowari@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdzubayerhossainpatowari)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdzubayerhossain)
 [![Google Developer Profile](https://img.shields.io/badge/Google%20Dev-G.dev%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/mdzubayerhossainpatowari)
 
