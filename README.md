@@ -47,9 +47,9 @@ I'm a passionate AI Engineer with a track record of developing innovative AI sol
 
 ## 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdzubayerpatowari@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdzunayedhossainpatowari@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdzubayerhossain)
-[![Google Developer Profile](https://img.shields.io/badge/Google%20Dev-G.dev%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/mdzubayerhossainpatowari)
+[![Google Developer Profile](https://img.shields.io/badge/Google%20Dev-G.dev%20Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/mdzunayedrhossainpatowari)
 
 ---
 
